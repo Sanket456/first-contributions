@@ -1,4 +1,4 @@
-# Contributors
+﻿ontributors
 - [Acqualine Lobo] (https://github.com/acqualine)
 - [Jamie Tan](https://github.com/jlt10)
 - [Rachel Quan] (https://github.com/rachelquan)
@@ -5368,3 +5368,4 @@ Hirva  Shah
 - [Alan Gordon](https://github.com/alangordon)
 - [Lauren Kosub](https://github.com/laurenkosub)
 - [Sanjana Sekar](https://github.com/sanjanasekar)
+- [Sanket Sharma](https://github.com/Sanket456)
