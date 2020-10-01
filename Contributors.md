@@ -1,4 +1,4 @@
-# Contributors
+﻿ontributors
 - [Acqualine Lobo] (https://github.com/acqualine)
 - [Jamie Tan](https://github.com/jlt10)
 - [Rachel Quan] (https://github.com/rachelquan)
@@ -683,6 +683,7 @@ Sumit Sagar
 - [Hannanel Gershinsky](https://github.com/hannanel100)
 - [Vivek Bhadola](https://github.com/dynamic-26)
 - [Priya Srivastava](https://github.com/Priya730)
+- [Sayali Naval](https://github.com/sayalinaval)
 - [Data Khukhua](https://github.com/DataKhukhua)
 - [Rushikesh Barkale](https://github.com/rushikeshbarkale)
 - [Siddharth Tirkey](https://github.com/sidtirkey)
@@ -5367,3 +5368,4 @@ Hirva  Shah
 - [Alan Gordon](https://github.com/alangordon)
 - [Lauren Kosub](https://github.com/laurenkosub)
 - [Sanjana Sekar](https://github.com/sanjanasekar)
+- [Sanket Sharma](https://github.com/Sanket456)
